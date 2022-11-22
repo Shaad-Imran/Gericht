@@ -4,7 +4,7 @@
 
 Gericht is a fully responsive restaurent landing page,<br/> Maximum compatiblities in all mobile devices, built using React Js
 
-<!-- <a href="https://shaad-imran.github.io/Titania-eCommerce-website/"><strong>➥ Live Demo</strong></a> -->
+<a href="https://gericht-reactweb.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
